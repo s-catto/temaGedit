@@ -8,7 +8,7 @@
 	<style background="#430030" foreground="#00ff00" name="diff:removed-line"/>
 	<style background="#133030" foreground="#00ff00" name="diff:added-line"/>
 	<style background="#970081" foreground="#e702c6" name="cursor"/>
-	<style foreground="#806080" name="line-numbers"/>
+	<style background="#130030" foreground="#631962" name="line-numbers"/>
 	<style foreground="#0f750f" name="def:comment"/>
 	<style foreground="#8029d6" name="def:constant"/>
 	<style background="#ff0000" foreground="#ffffff" name="def:error"/>
